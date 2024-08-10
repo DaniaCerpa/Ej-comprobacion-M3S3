@@ -5,4 +5,3 @@ Sesión: 3
 Tarea tipo: Ejercicio de comprobación
 Repositorio Github: https://github.com/DaniaCerpa/Ej-comprobacion-M3S3.git
 Clonar repositorio: git clone https://github.com/DaniaCerpa/Ej-comprobacion-M3S3.git
-Git-hub Pages: https://daniacerpa.github.io/Ej-comprobacion-M3S3/
